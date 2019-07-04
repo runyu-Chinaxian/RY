@@ -1,5 +1,5 @@
 #include<Morse.h>
-#define pin==13;
+#define pin 13;
 int incomingByte = 0;
 int i,j;
 char morse[26][4]={"*-",//a
